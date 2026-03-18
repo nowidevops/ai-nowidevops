@@ -3,8 +3,8 @@
 
 # iDevOps LLC - Agentic Copilot
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://servicenow-code-copilot.web.app)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-blue)](https://servicenow-code-copilot.web.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ai.nowidevops.com)
+[![AI Powered](https://img.shields.io/badge/AI-Powered-blue)](https://ai.nowidevops.com)
 
 > **Agentic SDLC automation platform for ServiceNow developers and delivery teams**
 
@@ -119,7 +119,7 @@ We leverage the industry's most advanced AI models with intelligent fallback:
 
 | Channel | Link |
 |---------|------|
-| **Website** | https://servicenow-code-copilot.web.app |
+| **Website** | https://ai.nowidevops.com |
 | **Email** | support@nowidevops.com |
 | **GitHub** | https://github.com/nowidevops/servicenow-code-copilot |
 | **YouTube** | https://www.youtube.com/@agenticservicenow |
